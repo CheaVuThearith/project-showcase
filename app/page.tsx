@@ -7,6 +7,7 @@ export default function Home() {
     "spotify front end clone" : "https://spotifyclone-psi.vercel.app/",
     "mini games" : "https://tetris-five-ochre.vercel.app/"
   }
+  
   return (
     <>
     <div className="grid absolute inset-0 grid-cols-3 items-center justify-items-center">
