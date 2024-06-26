@@ -4,7 +4,6 @@ import ShowcaseBox from "./_components/ShowcaseBox";
 export default function Home() {
   const projectLinks = {
     "Inter Scholar": "https://interscholar.vercel.app/",
-    "trello navbar":"https://trello-homepage-clone-blush.vercel.app/",
     "spotify front end clone" : "https://spotifyclone-psi.vercel.app/",
     "mini games" : "https://tetris-five-ochre.vercel.app/"
   }
